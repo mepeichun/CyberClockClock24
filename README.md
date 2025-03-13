@@ -2,6 +2,8 @@
 MatrixTimer is a matrix clock project based on Pygame. Multiple clocks are arranged together, and by coordinating their hour, minute, and second hands, different animation effects are achieved.
 MatrixTimer 是一个基于 Pygame 的矩阵时钟项目。多个时钟排列在一起，通过协调它们的时、分、秒针，实现不同的动画显示效果。
 
+![Output Effect](./assets/output.gif)
+
 ## 运行环境
 
 - Python 3.x
